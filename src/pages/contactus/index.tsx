@@ -70,7 +70,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <form
               target="_blank"
               onSubmit={onSubmit}
-              action="https://formsubmit.co/mateusz.melaniuk98@gmail.com"
+              action="https://formsubmit.co/03bf7379be1ffe1f67048799ce89a065"
               method="POST"
             >
               {errors.name && (
